@@ -1,0 +1,50 @@
+<!-- list -->
+<ul class="nav">
+  <div ng-repeat="head in app.menuData">
+  <li class="hidden-folded padder m-t m-b-sm text-muted text-xs">
+    <span >{{head.header}}</span>
+  </li>
+  <li ng-repeat="menu in head.menus" ng-class="{active:$state.includes(menu.sref)}">
+    <a href class="auto">      
+      <span class="pull-right text-muted">
+        <i class="fa fa-fw fa-angle-right text"></i>
+        <i class="fa fa-fw fa-angle-down text-active"></i>
+      </span>
+      <i class="glyphicon glyphicon-th"></i>
+      <span class="font-bold">{{menu.text}}</span>
+    </a>
+    <ul class="nav nav-sub dk">
+      <li class="nav-sub-header">
+        <a href>
+          <span>{{menu.text}}</span>
+        </a>
+      </li>
+      <li ng-repeat="mc in menu.children" ui-sref-active="active">
+        <a ui-sref="{{mc.sref}}">
+          <span>{{mc.text}}</span>
+        </a>
+      </li>
+    </ul>
+  </li>
+  </div>
+
+  <li class="line dk hidden-folded"></li>
+
+  <li class="hidden-folded padder m-t m-b-sm text-muted text-xs">          
+    <span translate="aside.nav.your_stuff.YOUR_STUFF">Your Stuff</span>
+  </li>  
+  <li>
+    <a ui-sref="app.page.profile">
+      <i class="icon-user icon text-success-lter"></i>
+      <b class="badge bg-success pull-right">30%</b>
+      <span translate="aside.nav.your_stuff.PROFILE">Profile</span>
+    </a>
+  </li>
+  <li>
+    <a ui-sref="app.docs">
+      <i class="icon-question icon"></i>
+      <span translate="aside.nav.your_stuff.DOCUMENTS">Documents</span>
+    </a>
+  </li>
+</ul>
+<!-- / list -->

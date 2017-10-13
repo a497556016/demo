@@ -1,0 +1,6 @@
+var global;
+
+
+global = {
+	
+}
