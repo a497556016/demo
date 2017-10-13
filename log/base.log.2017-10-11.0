@@ -1,0 +1,1224 @@
+2017-10-11 10:04:05,472 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-11 10:04:06,185 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-11 10:04:06,186 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-11 10:04:06,192 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-11 10:04:06,193 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-11 10:04:06,193 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-11 10:04:08,306 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-11 10:04:08,499 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-11 10:04:08,576 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-11 10:08:48,355 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-11 10:08:48,843 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-11 10:08:48,844 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-11 10:08:48,849 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-11 10:08:48,849 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-11 10:08:48,849 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-11 10:08:49,898 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-11 10:08:49,954 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-11 10:08:49,985 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-11 10:08:50,913 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-11 10:08:52,236 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 5.823 seconds (JVM running for 6.413)
+2017-10-11 10:09:39,060 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,061 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,061 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,061 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,062 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,066 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,064 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,067 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,067 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,065 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,068 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,069 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,069 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,071 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,071 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,072 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,073 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,073 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,075 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@73a3b614] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@651076cb] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c7d11a5] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,087 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63b7d592] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,087 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1828466c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@50676153] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,088 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be299e6] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,089 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b60f8b3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@be5bbdd] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1dc272e3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@179ebf08] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3d0a2bb4] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63f9b02c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@176e3e46] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4369de1c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2bd1c13e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@34dad12c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@681b8f5b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@33f4109] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@368aa57a] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3fd8bd6] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b595cdb] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6a687d9] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1aab8a18] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2461a47d] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@497d57c3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@609bf3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1dcd1794] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,086 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7b257e1a] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,118 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,118 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,119 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@56e22c79] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,119 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,120 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,120 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5979ce0f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,119 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3045a1a6] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,120 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d8e9177] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,121 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,122 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@fb66138] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,137 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,138 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@57235575] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,138 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,138 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3ca0f5b3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,146 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,147 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@50bb230f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,138 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,138 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,151 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f6c23c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,150 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c4420c9] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,167 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,167 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@a2bcdf8] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,168 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,169 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7294095d] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,169 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,169 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,169 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,170 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@133ec071] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,170 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,171 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5b0b9677] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,170 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7b4a839f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,170 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@459d6d69] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,174 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,175 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3ad09175] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,177 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,178 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1a56494d] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,179 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,179 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4f8b0ac0] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,183 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,184 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6f58114b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,183 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,185 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@427c6261] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,183 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,185 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2af827b4] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,472 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,473 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,473 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4f603097] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,474 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,474 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@21891d5e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,475 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,475 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5138938b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,473 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e640ae7] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,474 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,477 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1452eae8] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,474 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,478 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@70ad7ad2] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,474 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,479 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@78fb824c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,474 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,480 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@e6eb408] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,480 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,481 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@10013764] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,481 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3aed1651] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,481 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,483 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@517b6d0f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,484 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@20e685cf] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,482 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,483 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@614d2715] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,484 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,484 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6fee8ddb] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,484 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,487 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@994f942] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,484 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,484 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7bd9d0b5] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,485 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,485 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,490 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@46553f3c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,485 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c511e55] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,485 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@67e5be6e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,491 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,491 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1e115948] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,485 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,485 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,486 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@208b54c6] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,486 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,486 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5be0826a] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,486 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,494 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6f54d65c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,486 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4603c731] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,496 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,496 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2cee98cc] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,497 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71c2c9a4] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,488 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,499 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@ce85fda] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,500 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1e4b5f49] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,501 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27d5a410] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,503 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53fde15b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@70388c17] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,505 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27d32b19] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,506 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18eb0090] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bd29fa8] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,489 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6d413cc9] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,490 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,493 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@38926135] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,510 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,511 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@df0e371] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,493 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f6a5dc3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,512 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,513 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,513 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2664526e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,493 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@467f0233] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,496 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18b8b6c5] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,497 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,515 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1faf88cc] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,516 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,497 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,497 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6eff2680] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,497 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,517 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7576158e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,498 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,518 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@b9a5b1d] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,498 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@38d39b12] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,498 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,499 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e14b424] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,500 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,521 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,504 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5137b0d8] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,508 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26c6ac39] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,509 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@ecedbb6] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,510 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,523 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1a352b8d] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,523 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,510 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,510 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25eda5af] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,510 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,525 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53be9545] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,525 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,525 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18bd77c6] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,511 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,512 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,513 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,513 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@412e09fb] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,516 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,516 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5e851829] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,516 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,517 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@d37d682] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,517 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,531 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6d8c730a] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,517 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,517 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,518 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,518 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,518 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,519 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,519 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,519 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,519 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,520 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2555174b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,520 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,535 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71e11b0e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,520 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,536 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@135f0959] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,520 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,537 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@73cec2f3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,520 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,521 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47756e5] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,521 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,538 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@22df57d3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,521 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,521 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@39e2b6a0] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,522 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,522 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,523 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,523 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,523 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,541 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@69d84d06] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,524 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@79579b87] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,524 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,524 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2428503a] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,524 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,524 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,525 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,525 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,525 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,526 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,526 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,526 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,526 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,526 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3b25571f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,545 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7163eb7a] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5aca94dc] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7a2b329c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,527 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@54f8f53] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@35f58f2c] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,528 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@35126fb4] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,529 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,529 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,529 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,529 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,530 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,530 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,530 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bc56b2b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,530 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,530 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:09:39,530 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6f19b9dc] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,532 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3d6bb439] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,532 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5991d32d] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,533 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4a1da55f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,533 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f6a4cdd] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,533 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18fb7cba] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,533 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fa9a205] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,534 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6bf0b4c5] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,534 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c26182b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,534 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b6f93bd] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,538 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@784859e9] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,539 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1834a9fe] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,540 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c30336e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,540 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@65a94dbf] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,540 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@726649e3] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,540 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5922e236] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,541 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@43e454c7] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,542 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@452193f1] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,542 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7db80c63] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,542 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@29d005be] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,542 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5411b313] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,543 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@36efd156] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,543 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@297ac37f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,543 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@362fc2a9] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,543 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@f2d5f2e] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,544 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2286a0da] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,544 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@406ef2cf] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,544 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4571322f] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,545 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@710fa1d0] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,546 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@28356656] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,546 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3c83a945] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,546 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2135a2d8] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,547 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@42d69dcd] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,547 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4f0f2c51] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,547 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f45b512] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,548 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f081291] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,548 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@8c66741] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,548 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3c41ce56] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,548 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@56fc1503] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,549 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@48556ef0] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,549 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5254b608] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,549 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@43891184] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,549 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1b2e113b] was not registered for synchronization because synchronization is not active
+2017-10-11 10:09:39,775 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7103a019]]] will not be managed by Spring
+2017-10-11 10:09:39,776 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2eccbc39]]] will not be managed by Spring
+2017-10-11 10:09:39,780 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5d8d655d]]] will not be managed by Spring
+2017-10-11 10:09:39,780 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@446cd536]]] will not be managed by Spring
+2017-10-11 10:09:39,781 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6d614a1d]]] will not be managed by Spring
+2017-10-11 10:09:39,785 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2b6d8296]]] will not be managed by Spring
+2017-10-11 10:09:39,788 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@501d54a4]]] will not be managed by Spring
+2017-10-11 10:09:39,790 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1f118686]]] will not be managed by Spring
+2017-10-11 10:09:39,790 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5b7a3a22]]] will not be managed by Spring
+2017-10-11 10:09:39,792 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@52c38b04]]] will not be managed by Spring
+2017-10-11 10:09:39,794 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4c6af322]]] will not be managed by Spring
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,790 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@47b69d2d]]] will not be managed by Spring
+2017-10-11 10:09:39,798 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,790 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@387e4d06]]] will not be managed by Spring
+2017-10-11 10:09:39,817 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,819 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@30985d5e]]] will not be managed by Spring
+2017-10-11 10:09:39,820 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,790 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5b378da8]]] will not be managed by Spring
+2017-10-11 10:09:39,821 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,792 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@566b389a]]] will not be managed by Spring
+2017-10-11 10:09:39,793 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@cf9f281]]] will not be managed by Spring
+2017-10-11 10:09:39,824 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,846 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1aa5140d]]] will not be managed by Spring
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,851 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,794 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,820 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@35829f79]]] will not be managed by Spring
+2017-10-11 10:09:39,857 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,823 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@e5d7bbf]]] will not be managed by Spring
+2017-10-11 10:09:39,858 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,824 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,832 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@26fbdf5d]]] will not be managed by Spring
+2017-10-11 10:09:39,833 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@450565ff]]] will not be managed by Spring
+2017-10-11 10:09:39,857 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,858 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,858 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,858 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,858 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,858 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,861 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@ec29c84]]] will not be managed by Spring
+2017-10-11 10:09:39,862 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,864 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,867 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@309511b8]]] will not be managed by Spring
+2017-10-11 10:09:39,867 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,868 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,869 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,870 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@52b2ce9f]]] will not be managed by Spring
+2017-10-11 10:09:39,871 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,871 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,871 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,873 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,874 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,874 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,875 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,876 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,876 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,878 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,864 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7d23c23a]]] will not be managed by Spring
+2017-10-11 10:09:39,879 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,880 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,870 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,875 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,881 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,876 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,884 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,877 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,882 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,889 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,889 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,890 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@67306d72]]] will not be managed by Spring
+2017-10-11 10:09:39,890 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,892 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,892 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@709be33b]]] will not be managed by Spring
+2017-10-11 10:09:39,900 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,901 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,900 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7ca54428]]] will not be managed by Spring
+2017-10-11 10:09:39,905 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,906 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,907 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@424bb434]]] will not be managed by Spring
+2017-10-11 10:09:39,907 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,908 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,915 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@712c0077]]] will not be managed by Spring
+2017-10-11 10:09:39,916 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,916 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,920 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3a11661a]]] will not be managed by Spring
+2017-10-11 10:09:39,920 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,921 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,922 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@55dcb471]]] will not be managed by Spring
+2017-10-11 10:09:39,923 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,923 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,925 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@32bb685d]]] will not be managed by Spring
+2017-10-11 10:09:39,925 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,926 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,931 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7515726a]]] will not be managed by Spring
+2017-10-11 10:09:39,932 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,933 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,932 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@40c79478]]] will not be managed by Spring
+2017-10-11 10:09:39,934 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,934 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,935 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@cd72e01]]] will not be managed by Spring
+2017-10-11 10:09:39,935 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,936 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,936 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2b08b95c]]] will not be managed by Spring
+2017-10-11 10:09:39,937 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,937 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,940 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@220204c4]]] will not be managed by Spring
+2017-10-11 10:09:39,940 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,941 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,981 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1df10a47]]] will not be managed by Spring
+2017-10-11 10:09:39,981 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,982 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,989 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3d35d747]]] will not be managed by Spring
+2017-10-11 10:09:39,989 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,990 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,992 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@c307754]]] will not be managed by Spring
+2017-10-11 10:09:39,992 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,993 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,993 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2dca4008]]] will not be managed by Spring
+2017-10-11 10:09:39,994 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,994 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,996 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@63d8fdc2]]] will not be managed by Spring
+2017-10-11 10:09:39,996 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,997 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:39,996 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5b44d8f1]]] will not be managed by Spring
+2017-10-11 10:09:39,998 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:39,999 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,000 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@29fb1aee]]] will not be managed by Spring
+2017-10-11 10:09:40,000 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,001 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,004 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@24c489bc]]] will not be managed by Spring
+2017-10-11 10:09:40,004 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5ce3be12]]] will not be managed by Spring
+2017-10-11 10:09:40,005 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,005 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,005 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,006 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,011 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6f726e5e]]] will not be managed by Spring
+2017-10-11 10:09:40,011 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@32f5e2a7]]] will not be managed by Spring
+2017-10-11 10:09:40,012 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,012 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,011 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,015 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,012 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@329c26b3]]] will not be managed by Spring
+2017-10-11 10:09:40,016 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,012 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4c568de7]]] will not be managed by Spring
+2017-10-11 10:09:40,016 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,017 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,016 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,020 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3d6b812c]]] will not be managed by Spring
+2017-10-11 10:09:40,020 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,020 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,020 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5aa4e983]]] will not be managed by Spring
+2017-10-11 10:09:40,022 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,022 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,026 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7e213e2b]]] will not be managed by Spring
+2017-10-11 10:09:40,027 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,027 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,030 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@a729418]]] will not be managed by Spring
+2017-10-11 10:09:40,030 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,030 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,030 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6596195a]]] will not be managed by Spring
+2017-10-11 10:09:40,031 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,032 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,034 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@657ed87]]] will not be managed by Spring
+2017-10-11 10:09:40,035 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,035 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,041 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@58245510]]] will not be managed by Spring
+2017-10-11 10:09:40,041 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,042 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,050 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@13cdb6bd]]] will not be managed by Spring
+2017-10-11 10:09:40,050 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,051 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,061 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@58dfc5c0]]] will not be managed by Spring
+2017-10-11 10:09:40,061 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,062 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,062 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4a3b8b15]]] will not be managed by Spring
+2017-10-11 10:09:40,063 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,063 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,066 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4e3cb9ec]]] will not be managed by Spring
+2017-10-11 10:09:40,066 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,067 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,069 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@78e6cf9e]]] will not be managed by Spring
+2017-10-11 10:09:40,069 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,070 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,069 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@69d72b9]]] will not be managed by Spring
+2017-10-11 10:09:40,071 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,071 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,072 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@8848180]]] will not be managed by Spring
+2017-10-11 10:09:40,073 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,073 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,074 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4d0d8741]]] will not be managed by Spring
+2017-10-11 10:09:40,074 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,074 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@468c014]]] will not be managed by Spring
+2017-10-11 10:09:40,075 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1b6304f7]]] will not be managed by Spring
+2017-10-11 10:09:40,075 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,075 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,074 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,075 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,078 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,083 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6c7264c7]]] will not be managed by Spring
+2017-10-11 10:09:40,083 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,084 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,088 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@402a3810]]] will not be managed by Spring
+2017-10-11 10:09:40,089 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,089 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,092 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@9c7ea]]] will not be managed by Spring
+2017-10-11 10:09:40,093 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,094 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,095 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@45621eab]]] will not be managed by Spring
+2017-10-11 10:09:40,095 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,096 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@59c33c6b]]] will not be managed by Spring
+2017-10-11 10:09:40,096 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,096 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,097 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,106 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3545112e]]] will not be managed by Spring
+2017-10-11 10:09:40,107 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,107 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,121 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@9fbcad8]]] will not be managed by Spring
+2017-10-11 10:09:40,121 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,122 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,125 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@77aa0991]]] will not be managed by Spring
+2017-10-11 10:09:40,125 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,126 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,137 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@645f630d]]] will not be managed by Spring
+2017-10-11 10:09:40,137 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,137 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,139 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@79d95532]]] will not be managed by Spring
+2017-10-11 10:09:40,140 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,140 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,142 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@8df5fe1]]] will not be managed by Spring
+2017-10-11 10:09:40,143 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,143 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,152 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@228a5c21]]] will not be managed by Spring
+2017-10-11 10:09:40,152 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,153 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,160 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1d76e23a]]] will not be managed by Spring
+2017-10-11 10:09:40,160 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,160 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,162 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5287564d]]] will not be managed by Spring
+2017-10-11 10:09:40,163 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,163 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,166 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4849b0e]]] will not be managed by Spring
+2017-10-11 10:09:40,166 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,167 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,170 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1fd313c0]]] will not be managed by Spring
+2017-10-11 10:09:40,171 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,171 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,174 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@55323c8a]]] will not be managed by Spring
+2017-10-11 10:09:40,174 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,174 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,181 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@223cae21]]] will not be managed by Spring
+2017-10-11 10:09:40,182 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,182 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,182 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@c0ca948]]] will not be managed by Spring
+2017-10-11 10:09:40,183 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,183 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,186 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@63ac0c55]]] will not be managed by Spring
+2017-10-11 10:09:40,186 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,187 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@286a8870]]] will not be managed by Spring
+2017-10-11 10:09:40,187 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,187 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,188 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,199 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5dbb15fb]]] will not be managed by Spring
+2017-10-11 10:09:40,200 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,200 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,201 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@69f7233c]]] will not be managed by Spring
+2017-10-11 10:09:40,201 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,202 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,217 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@56222e70]]] will not be managed by Spring
+2017-10-11 10:09:40,217 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,217 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,218 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@328a357d]]] will not be managed by Spring
+2017-10-11 10:09:40,218 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,219 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,235 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@74218f32]]] will not be managed by Spring
+2017-10-11 10:09:40,235 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,235 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,250 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2acaa2f3]]] will not be managed by Spring
+2017-10-11 10:09:40,250 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@666d093c]]] will not be managed by Spring
+2017-10-11 10:09:40,250 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,252 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,250 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2a96b847]]] will not be managed by Spring
+2017-10-11 10:09:40,252 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,253 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,250 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3492bf19]]] will not be managed by Spring
+2017-10-11 10:09:40,254 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,251 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,251 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6e11e35c]]] will not be managed by Spring
+2017-10-11 10:09:40,255 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,255 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,254 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,255 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47756e5]
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,295 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,292 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@42d69dcd]
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@ecedbb6]
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,293 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,300 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@135f0959]
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,301 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5e851829]
+2017-10-11 10:09:40,294 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18bd77c6]
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,302 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@43891184]
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@38d39b12]
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,305 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f6a5dc3]
+2017-10-11 10:09:40,294 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27d32b19]
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,294 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,295 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,295 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1e4b5f49]
+2017-10-11 10:09:40,295 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,296 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53be9545]
+2017-10-11 10:09:40,296 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5922e236]
+2017-10-11 10:09:40,296 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2428503a]
+2017-10-11 10:09:40,296 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4571322f]
+2017-10-11 10:09:40,297 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@297ac37f]
+2017-10-11 10:09:40,297 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5137b0d8]
+2017-10-11 10:09:40,298 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7576158e]
+2017-10-11 10:09:40,298 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@36efd156]
+2017-10-11 10:09:40,299 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4603c731]
+2017-10-11 10:09:40,299 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2cee98cc]
+2017-10-11 10:09:40,299 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bd29fa8]
+2017-10-11 10:09:40,299 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@29d005be]
+2017-10-11 10:09:40,300 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5be0826a]
+2017-10-11 10:09:40,302 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c26182b]
+2017-10-11 10:09:40,302 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18fb7cba]
+2017-10-11 10:09:40,303 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,303 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6f54d65c]
+2017-10-11 10:09:40,303 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@70388c17]
+2017-10-11 10:09:40,304 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@208b54c6]
+2017-10-11 10:09:40,304 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@56fc1503]
+2017-10-11 10:09:40,304 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f45b512]
+2017-10-11 10:09:40,305 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@ce85fda]
+2017-10-11 10:09:40,306 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71c2c9a4]
+2017-10-11 10:09:40,306 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18b8b6c5]
+2017-10-11 10:09:40,306 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@71e11b0e]
+2017-10-11 10:09:40,307 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@d37d682]
+2017-10-11 10:09:40,307 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@467f0233]
+2017-10-11 10:09:40,312 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@8c66741]
+2017-10-11 10:09:40,315 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,315 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,315 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,315 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,315 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,317 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@406ef2cf]
+2017-10-11 10:09:40,315 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,317 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2135a2d8]
+2017-10-11 10:09:40,315 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5411b313]
+2017-10-11 10:09:40,316 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@65a94dbf]
+2017-10-11 10:09:40,316 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@710fa1d0]
+2017-10-11 10:09:40,316 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@df0e371]
+2017-10-11 10:09:40,317 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,319 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5254b608]
+2017-10-11 10:09:40,320 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,320 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2555174b]
+2017-10-11 10:09:40,317 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,322 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1834a9fe]
+2017-10-11 10:09:40,317 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,318 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,321 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,322 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,322 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,323 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1b2e113b]
+2017-10-11 10:09:40,323 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7db80c63]
+2017-10-11 10:09:40,323 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c30336e]
+2017-10-11 10:09:40,323 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b6f93bd]
+2017-10-11 10:09:40,324 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@39e2b6a0]
+2017-10-11 10:09:40,325 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,325 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,326 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53fde15b]
+2017-10-11 10:09:40,326 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@b9a5b1d]
+2017-10-11 10:09:40,326 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,326 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,327 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@38926135]
+2017-10-11 10:09:40,327 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25eda5af]
+2017-10-11 10:09:40,328 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,328 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,328 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,328 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3c41ce56]
+2017-10-11 10:09:40,329 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@43e454c7]
+2017-10-11 10:09:40,329 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e14b424]
+2017-10-11 10:09:40,330 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,331 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bc56b2b]
+2017-10-11 10:09:40,331 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,331 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fa9a205]
+2017-10-11 10:09:40,332 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,332 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,332 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@362fc2a9]
+2017-10-11 10:09:40,332 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,333 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1a352b8d]
+2017-10-11 10:09:40,333 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,333 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3d6bb439]
+2017-10-11 10:09:40,334 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@18eb0090]
+2017-10-11 10:09:40,335 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,335 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f6a4cdd]
+2017-10-11 10:09:40,336 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,336 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,336 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4f0f2c51]
+2017-10-11 10:09:40,336 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,336 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1faf88cc]
+2017-10-11 10:09:40,337 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6bf0b4c5]
+2017-10-11 10:09:40,338 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,338 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,338 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,339 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@784859e9]
+2017-10-11 10:09:40,338 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,338 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6d413cc9]
+2017-10-11 10:09:40,338 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,339 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@28356656]
+2017-10-11 10:09:40,339 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,339 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,339 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,342 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6f19b9dc]
+2017-10-11 10:09:40,339 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,342 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6eff2680]
+2017-10-11 10:09:40,340 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,343 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2664526e]
+2017-10-11 10:09:40,344 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,344 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@452193f1]
+2017-10-11 10:09:40,340 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4a1da55f]
+2017-10-11 10:09:40,340 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,340 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,341 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7163eb7a]
+2017-10-11 10:09:40,341 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f081291]
+2017-10-11 10:09:40,341 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@48556ef0]
+2017-10-11 10:09:40,342 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,343 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,343 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,343 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,344 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,344 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,344 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,345 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26c6ac39]
+2017-10-11 10:09:40,345 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@f2d5f2e]
+2017-10-11 10:09:40,346 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2286a0da]
+2017-10-11 10:09:40,346 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@35126fb4]
+2017-10-11 10:09:40,347 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@726649e3]
+2017-10-11 10:09:40,347 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,349 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@54f8f53]
+2017-10-11 10:09:40,347 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27d5a410]
+2017-10-11 10:09:40,347 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@412e09fb]
+2017-10-11 10:09:40,347 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3c83a945]
+2017-10-11 10:09:40,352 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6f726e5e]]] will not be managed by Spring
+2017-10-11 10:09:40,352 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,354 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5b378da8]]] will not be managed by Spring
+2017-10-11 10:09:40,354 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,355 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@45621eab]]] will not be managed by Spring
+2017-10-11 10:09:40,358 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,364 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,364 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@79579b87]
+2017-10-11 10:09:40,365 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4c568de7]]] will not be managed by Spring
+2017-10-11 10:09:40,365 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,368 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1aa5140d]]] will not be managed by Spring
+2017-10-11 10:09:40,368 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,369 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7ca54428]]] will not be managed by Spring
+2017-10-11 10:09:40,369 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,370 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,370 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@69d84d06]
+2017-10-11 10:09:40,371 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@329c26b3]]] will not be managed by Spring
+2017-10-11 10:09:40,372 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,373 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@9fbcad8]]] will not be managed by Spring
+2017-10-11 10:09:40,374 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,375 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6d614a1d]]] will not be managed by Spring
+2017-10-11 10:09:40,376 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,380 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,380 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3d35d747]]] will not be managed by Spring
+2017-10-11 10:09:40,348 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@35f58f2c]
+2017-10-11 10:09:40,349 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@63d8fdc2]]] will not be managed by Spring
+2017-10-11 10:09:40,382 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,384 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,351 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@450565ff]]] will not be managed by Spring
+2017-10-11 10:09:40,385 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,386 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5ce3be12]]] will not be managed by Spring
+2017-10-11 10:09:40,386 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,395 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,395 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@497d57c3]
+2017-10-11 10:09:40,396 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,397 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2eccbc39]]] will not be managed by Spring
+2017-10-11 10:09:40,397 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,398 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,398 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@73cec2f3]
+2017-10-11 10:09:40,398 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@79d95532]]] will not be managed by Spring
+2017-10-11 10:09:40,352 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5dbb15fb]]] will not be managed by Spring
+2017-10-11 10:09:40,399 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,399 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,352 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@9c7ea]]] will not be managed by Spring
+2017-10-11 10:09:40,400 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,355 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,355 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4c6af322]]] will not be managed by Spring
+2017-10-11 10:09:40,404 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,405 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,358 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,412 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5aca94dc]
+2017-10-11 10:09:40,412 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,416 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3d6b812c]]] will not be managed by Spring
+2017-10-11 10:09:40,417 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,418 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,368 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,421 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7a2b329c]
+2017-10-11 10:09:40,423 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@29fb1aee]]] will not be managed by Spring
+2017-10-11 10:09:40,424 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,424 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,426 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,426 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@e6eb408]
+2017-10-11 10:09:40,427 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5dbb15fb]]] will not be managed by Spring
+2017-10-11 10:09:40,428 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,430 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@223cae21]]] will not be managed by Spring
+2017-10-11 10:09:40,431 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,369 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5287564d]]] will not be managed by Spring
+2017-10-11 10:09:40,379 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,433 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3b25571f]
+2017-10-11 10:09:40,433 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5aa4e983]]] will not be managed by Spring
+2017-10-11 10:09:40,434 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,438 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,440 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1828466c]
+2017-10-11 10:09:40,441 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3d6b812c]]] will not be managed by Spring
+2017-10-11 10:09:40,441 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,443 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,445 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@712c0077]]] will not be managed by Spring
+2017-10-11 10:09:40,447 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,448 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,379 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,451 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5991d32d]
+2017-10-11 10:09:40,454 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7e213e2b]]] will not be managed by Spring
+2017-10-11 10:09:40,455 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,455 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,379 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1df10a47]]] will not be managed by Spring
+2017-10-11 10:09:40,462 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,463 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,471 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@501d54a4]]] will not be managed by Spring
+2017-10-11 10:09:40,472 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,473 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,474 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,474 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@50bb230f]
+2017-10-11 10:09:40,475 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7e213e2b]]] will not be managed by Spring
+2017-10-11 10:09:40,476 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,476 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7d23c23a]]] will not be managed by Spring
+2017-10-11 10:09:40,493 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,495 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@30985d5e]]] will not be managed by Spring
+2017-10-11 10:09:40,495 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,496 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,497 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,498 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63b7d592]
+2017-10-11 10:09:40,499 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@78e6cf9e]]] will not be managed by Spring
+2017-10-11 10:09:40,500 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,500 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,502 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,503 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4369de1c]
+2017-10-11 10:09:40,380 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@c307754]]] will not be managed by Spring
+2017-10-11 10:09:40,504 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,505 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,508 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,509 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@46553f3c]
+2017-10-11 10:09:40,380 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,512 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@22df57d3]
+2017-10-11 10:09:40,380 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@424bb434]]] will not be managed by Spring
+2017-10-11 10:09:40,513 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,514 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,380 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4a3b8b15]]] will not be managed by Spring
+2017-10-11 10:09:40,380 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,380 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,380 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,381 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@446cd536]]] will not be managed by Spring
+2017-10-11 10:09:40,519 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,519 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,519 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,520 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@20e685cf]
+2017-10-11 10:09:40,521 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,522 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1dcd1794]
+2017-10-11 10:09:40,381 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,382 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,382 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,395 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2b6d8296]]] will not be managed by Spring
+2017-10-11 10:09:40,524 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,524 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,526 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,527 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b595cdb]
+2017-10-11 10:09:40,397 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,529 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6d8c730a]
+2017-10-11 10:09:40,399 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,532 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,399 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@657ed87]]] will not be managed by Spring
+2017-10-11 10:09:40,534 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,536 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,538 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,538 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e640ae7]
+2017-10-11 10:09:40,399 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,541 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,542 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1e115948]
+2017-10-11 10:09:40,399 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,400 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,400 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@32bb685d]]] will not be managed by Spring
+2017-10-11 10:09:40,544 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,545 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,404 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7515726a]]] will not be managed by Spring
+2017-10-11 10:09:40,546 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,549 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,404 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@c0ca948]]] will not be managed by Spring
+2017-10-11 10:09:40,555 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,404 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@7103a019]]] will not be managed by Spring
+2017-10-11 10:09:40,558 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,404 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@220204c4]]] will not be managed by Spring
+2017-10-11 10:09:40,560 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,561 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,405 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@286a8870]]] will not be managed by Spring
+2017-10-11 10:09:40,562 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,565 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,405 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@59c33c6b]]] will not be managed by Spring
+2017-10-11 10:09:40,569 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,405 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,573 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3aed1651]
+2017-10-11 10:09:40,409 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,582 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1aab8a18]
+2017-10-11 10:09:40,409 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,413 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@2dca4008]]] will not be managed by Spring
+2017-10-11 10:09:40,587 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,589 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,417 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@e5d7bbf]]] will not be managed by Spring
+2017-10-11 10:09:40,593 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,593 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,594 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1dc272e3]
+2017-10-11 10:09:40,418 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,597 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@609bf3]
+2017-10-11 10:09:40,419 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,419 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5b44d8f1]]] will not be managed by Spring
+2017-10-11 10:09:40,603 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,606 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,422 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@24c489bc]]] will not be managed by Spring
+2017-10-11 10:09:40,429 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@55323c8a]]] will not be managed by Spring
+2017-10-11 10:09:40,621 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,621 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,429 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@52b2ce9f]]] will not be managed by Spring
+2017-10-11 10:09:40,622 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,623 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,429 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@387e4d06]]] will not be managed by Spring
+2017-10-11 10:09:40,624 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,430 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1d76e23a]]] will not be managed by Spring
+2017-10-11 10:09:40,430 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@63ac0c55]]] will not be managed by Spring
+2017-10-11 10:09:40,625 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,430 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1fd313c0]]] will not be managed by Spring
+2017-10-11 10:09:40,629 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,430 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,432 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@6596195a]]] will not be managed by Spring
+2017-10-11 10:09:40,630 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,432 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,433 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,634 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,439 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@cd72e01]]] will not be managed by Spring
+2017-10-11 10:09:40,635 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,439 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,440 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,440 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,640 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@427c6261]
+2017-10-11 10:09:40,443 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,446 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,643 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@133ec071]
+2017-10-11 10:09:40,448 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@309511b8]]] will not be managed by Spring
+2017-10-11 10:09:40,644 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,448 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@1f118686]]] will not be managed by Spring
+2017-10-11 10:09:40,645 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,646 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,650 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,651 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c4420c9]
+2017-10-11 10:09:40,453 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,652 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@a2bcdf8]
+2017-10-11 10:09:40,453 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@55dcb471]]] will not be managed by Spring
+2017-10-11 10:09:40,657 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,657 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,458 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@58245510]]] will not be managed by Spring
+2017-10-11 10:09:40,661 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,459 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@77aa0991]]] will not be managed by Spring
+2017-10-11 10:09:40,665 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,667 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f6c23c]
+2017-10-11 10:09:40,472 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@566b389a]]] will not be managed by Spring
+2017-10-11 10:09:40,670 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,671 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,472 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@3a11661a]]] will not be managed by Spring
+2017-10-11 10:09:40,675 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,484 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,484 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@5d8d655d]]] will not be managed by Spring
+2017-10-11 10:09:40,676 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,677 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,493 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,686 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@10013764]
+2017-10-11 10:09:40,687 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,687 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@56e22c79]
+2017-10-11 10:09:40,494 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,690 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@179ebf08]
+2017-10-11 10:09:40,495 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,694 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,695 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5979ce0f]
+2017-10-11 10:09:40,496 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@cf9f281]]] will not be managed by Spring
+2017-10-11 10:09:40,696 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,496 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@8df5fe1]]] will not be managed by Spring
+2017-10-11 10:09:40,496 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@4e3cb9ec]]] will not be managed by Spring
+2017-10-11 10:09:40,699 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,700 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,503 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@30985d5e]]] will not be managed by Spring
+2017-10-11 10:09:40,702 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,516 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,721 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@517b6d0f]
+2017-10-11 10:09:40,516 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,518 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,521 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,725 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6fee8ddb]
+2017-10-11 10:09:40,523 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,523 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,525 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,729 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@994f942]
+2017-10-11 10:09:40,536 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,545 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,731 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@78fb824c]
+2017-10-11 10:09:40,552 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,732 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@681b8f5b]
+2017-10-11 10:09:40,554 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,739 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1452eae8]
+2017-10-11 10:09:40,556 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,740 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@368aa57a]
+2017-10-11 10:09:40,556 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,560 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,568 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,746 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,746 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@34dad12c]
+2017-10-11 10:09:40,571 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,751 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c7d11a5]
+2017-10-11 10:09:40,572 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,586 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be299e6]
+2017-10-11 10:09:40,593 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,600 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7bd9d0b5]
+2017-10-11 10:09:40,620 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,764 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,621 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,766 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2bd1c13e]
+2017-10-11 10:09:40,624 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,768 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,625 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,769 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,772 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,772 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,773 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2af827b4]
+2017-10-11 10:09:40,626 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,775 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@50676153]
+2017-10-11 10:09:40,629 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,629 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,630 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3fd8bd6]
+2017-10-11 10:09:40,633 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,634 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,780 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3ad09175]
+2017-10-11 10:09:40,636 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,786 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,797 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5b0b9677]
+2017-10-11 10:09:40,636 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,799 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b60f8b3]
+2017-10-11 10:09:40,636 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,800 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@614d2715]
+2017-10-11 10:09:40,642 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,802 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7b257e1a]
+2017-10-11 10:09:40,642 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,803 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6f58114b]
+2017-10-11 10:09:40,642 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2461a47d]
+2017-10-11 10:09:40,645 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,661 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,811 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,813 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,813 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@57235575]
+2017-10-11 10:09:40,668 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,674 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,675 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,684 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,821 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3045a1a6]
+2017-10-11 10:09:40,697 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,699 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:09:40,836 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,839 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,840 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63f9b02c]
+2017-10-11 10:09:40,702 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,723 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,725 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@70ad7ad2]
+2017-10-11 10:09:40,731 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,844 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6a687d9]
+2017-10-11 10:09:40,731 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,845 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@67e5be6e]
+2017-10-11 10:09:40,731 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@33f4109]
+2017-10-11 10:09:40,746 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@651076cb]
+2017-10-11 10:09:40,747 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,849 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,850 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c511e55]
+2017-10-11 10:09:40,851 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5138938b]
+2017-10-11 10:09:40,755 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,852 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@21891d5e]
+2017-10-11 10:09:40,762 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,857 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@73a3b614]
+2017-10-11 10:09:40,769 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4f603097]
+2017-10-11 10:09:40,772 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4f8b0ac0]
+2017-10-11 10:09:40,775 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-11 10:09:40,780 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,867 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1a56494d]
+2017-10-11 10:09:40,780 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,868 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@459d6d69]
+2017-10-11 10:09:40,780 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,872 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7b4a839f]
+2017-10-11 10:09:40,812 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,874 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7294095d]
+2017-10-11 10:09:40,817 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3ca0f5b3]
+2017-10-11 10:09:40,819 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,880 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d8e9177]
+2017-10-11 10:09:40,820 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,885 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@fb66138]
+2017-10-11 10:09:40,836 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,897 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3d0a2bb4]
+2017-10-11 10:09:40,841 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@176e3e46]
+2017-10-11 10:09:40,934 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:09:40,935 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@be5bbdd]
+2017-10-11 10:13:43,362 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:13:43,363 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2662cb9] was not registered for synchronization because synchronization is not active
+2017-10-11 10:13:43,365 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-11 10:13:43,365 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@56222e70]]] will not be managed by Spring
+2017-10-11 10:13:43,365 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:13:43,366 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 2(Integer)
+2017-10-11 10:13:43,368 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:13:43,368 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2662cb9]
+2017-10-11 10:13:43,365 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47625b66] was not registered for synchronization because synchronization is not active
+2017-10-11 10:13:43,370 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@56222e70]]] will not be managed by Spring
+2017-10-11 10:13:43,371 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-11 10:13:43,371 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 2(Integer)
+2017-10-11 10:13:43,374 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-11 10:13:43,374 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47625b66]

@@ -2,6 +2,7 @@ package com.example.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -34,5 +35,13 @@ public class UserInfoController {
 	@ResponseBody
 	public Object listUser() {
 		return userInfoService.selectUser();
+	}
+	
+	@Value("${server.port}")
+	private String port;
+	@RequestMapping("/test")
+	@ResponseBody
+	public String test() {
+		return port;
 	}
  }
