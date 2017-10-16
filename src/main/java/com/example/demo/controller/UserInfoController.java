@@ -20,7 +20,7 @@ public class UserInfoController {
 	@Autowired
 	private UserInfoService userInfoService;
 	
-	@Value("${spring.datasource.driverClassName}")
+	@Value("${http-auth.url-patterns}")
 	private String configValue;
 	
 	@RequestMapping("/findById")
