@@ -1,8 +1,9 @@
-package com.example.demo;
+package com.weishop;
 
 import java.util.List;
 
 import org.apache.commons.lang.StringUtils;
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
@@ -14,19 +15,19 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.core.env.Environment;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-import com.example.demo.filter.HttpAuthFilter;
+import com.weishop.filter.HttpAuthFilter;
 import com.google.common.collect.Lists;
 
 @SpringBootApplication
 @EnableEurekaClient
 @EnableConfigurationProperties
 @EnableTransactionManagement
-public class DemoApplication {
+public class WeiShopApplication {
 	@Value("${http-auth.url-patterns}")
 	private String urlPatternsStr;
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(WeiShopApplication.class, args);
 	}
 	
 	@Bean

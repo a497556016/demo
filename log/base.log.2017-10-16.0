@@ -1,0 +1,124 @@
+2017-10-13 13:59:02,348 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 13:59:04,033 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 13:59:04,034 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 13:59:04,039 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 13:59:04,040 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 13:59:04,040 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 13:59:07,401 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 13:59:07,600 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 13:59:07,668 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 14:16:18,656 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:16:20,659 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 14:16:20,660 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 14:16:20,667 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 14:16:20,668 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 14:16:20,668 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 14:16:24,006 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 14:16:24,312 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 14:16:24,362 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 14:16:25,989 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 14:16:30,272 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:16:30,374 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.248 seconds (JVM running for 18.714)
+2017-10-13 14:24:46,021 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:24:46,717 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 14:24:46,719 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 14:24:46,723 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 14:24:46,724 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 14:24:46,724 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 14:24:48,859 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 14:24:48,917 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 14:24:48,954 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 14:24:50,165 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 14:24:56,486 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:24:56,992 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.597 seconds (JVM running for 14.098)
+2017-10-13 14:25:53,573 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:25:54,596 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 14:25:54,598 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 14:25:54,604 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 14:25:54,604 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 14:25:54,604 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 14:25:58,119 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 14:25:58,200 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 14:25:58,246 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 14:25:59,918 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 14:26:05,711 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:26:05,828 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 3.236 seconds (JVM running for 15.604)
+2017-10-13 14:26:18,048 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 26.933 seconds (JVM running for 27.824)
+2017-10-13 14:30:50,835 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:30:51,566 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 14:30:51,567 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 14:30:51,573 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 14:30:51,574 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 14:30:51,574 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 14:30:53,650 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 14:30:53,718 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 14:30:53,756 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 14:51:53,104 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:51:53,846 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 14:51:53,847 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 14:51:53,852 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 14:51:53,853 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 14:51:53,853 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 14:51:55,875 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 14:51:55,934 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 14:51:55,970 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 14:51:57,356 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 14:52:00,505 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 14:52:00,714 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.224 seconds (JVM running for 10.694)
+2017-10-13 14:52:15,746 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 25.038 seconds (JVM running for 25.725)
+2017-10-13 18:20:41,806 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:20:43,611 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 18:20:43,613 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 18:20:43,617 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 18:20:43,618 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 18:20:43,618 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 18:20:48,605 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 18:20:49,374 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 18:20:49,601 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 18:20:52,061 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 18:21:25,502 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:21:26,149 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 18:21:26,151 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 18:21:26,155 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 18:21:26,156 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 18:21:26,156 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 18:21:28,071 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 18:21:28,129 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 18:21:28,163 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 18:21:29,905 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 18:21:34,563 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:21:34,656 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.287 seconds (JVM running for 12.524)
+2017-10-13 18:21:52,912 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 30.133 seconds (JVM running for 30.78)
+2017-10-13 18:24:34,073 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:24:34,723 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 18:24:34,724 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 18:24:34,729 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 18:24:34,730 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 18:24:34,730 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 18:24:36,724 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 18:24:36,779 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 18:24:36,813 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 18:24:38,011 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 18:24:41,901 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:24:42,043 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.119 seconds (JVM running for 11.454)
+2017-10-13 18:24:58,774 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 27.515 seconds (JVM running for 28.185)
+2017-10-13 18:27:01,501 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:27:02,159 DEBUG (MybatisAutoConfiguration.java:184)- Searching for mappers annotated with @Mapper
+2017-10-13 18:27:02,160 DEBUG (MybatisAutoConfiguration.java:196)- Using auto-configuration base package 'com.example.demo'
+2017-10-13 18:27:02,165 DEBUG (ClassPathScanningCandidateComponentProvider.java:294)- Identified candidate component class: file [E:\workspace\demo\target\classes\com\example\demo\mapper\UserInfoMapper.class]
+2017-10-13 18:27:02,166 DEBUG (ClassPathMapperScanner.java:180)- Creating MapperFactoryBean with name 'userInfoMapper' and 'com.example.demo.mapper.UserInfoMapper' mapperInterface
+2017-10-13 18:27:02,166 DEBUG (ClassPathMapperScanner.java:216)- Enabling autowire by type for MapperFactoryBean with name 'userInfoMapper'.
+2017-10-13 18:27:04,038 DEBUG (SqlSessionFactoryBean.java:437)- Scanned package: 'com.example.demo.pojo' for aliases
+2017-10-13 18:27:04,094 DEBUG (SqlSessionFactoryBean.java:529)- Parsed mapper file: 'file [E:\workspace\demo\target\classes\mapper\mysql\UserInfoMapper.xml]'
+2017-10-13 18:27:04,130 INFO (MyBatisConfiguration.java:25)- 注册MyBatis分页插件PageHelper
+2017-10-13 18:27:05,386 DEBUG (MybatisAutoConfiguration.java:234)- No org.mybatis.spring.mapper.MapperFactoryBean found.
+2017-10-13 18:27:08,735 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-10-13 18:27:08,825 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.454 seconds (JVM running for 11.535)
+2017-10-13 18:27:25,972 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 28.049 seconds (JVM running for 28.682)
+2017-10-13 18:27:38,546 DEBUG (SqlSessionUtils.java:97)- Creating a new SqlSession
+2017-10-13 18:27:38,567 DEBUG (SqlSessionUtils.java:148)- SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1ee005e6] was not registered for synchronization because synchronization is not active
+2017-10-13 18:27:41,541 DEBUG (SpringManagedTransaction.java:87)- JDBC Connection [ProxyConnection[PooledConnection[com.mysql.jdbc.JDBC4Connection@76fe870a]]] will not be managed by Spring
+2017-10-13 18:27:41,563 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user_info where id = ? 
+2017-10-13 18:27:41,594 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 1(Integer)
+2017-10-13 18:27:42,761 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2017-10-13 18:27:42,763 DEBUG (SqlSessionUtils.java:191)- Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1ee005e6]

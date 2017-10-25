@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.weishop.mapper.OrderMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.weishop.pojo.Order">
+		<id column="id" property="id" />
+		<result column="user_id" property="userId" />
+		<result column="user_name" property="userName" />
+		<result column="ship_id" property="shipId" />
+		<result column="ship_address" property="shipAddress" />
+		<result column="contact_number" property="contactNumber" />
+		<result column="contact_user_name" property="contactUserName" />
+		<result column="total_price" property="totalPrice" />
+		<result column="count_price" property="countPrice" />
+		<result column="delete_flag" property="deleteFlag" />
+		<result column="create_time" property="createTime" />
+		<result column="create_by" property="createBy" />
+		<result column="modify_time" property="modifyTime" />
+		<result column="modify_by" property="modifyBy" />
+	</resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, user_id AS userId, user_name AS userName, ship_id AS shipId, ship_address AS shipAddress, contact_number AS contactNumber, contact_user_name AS contactUserName, total_price AS totalPrice, count_price AS countPrice, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
+    </sql>
+
+</mapper>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.weishop.mapper.ShopCartMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.weishop.pojo.ShopCart">
+		<id column="id" property="id" />
+		<result column="user_id" property="userId" />
+		<result column="pro_id" property="proId" />
+		<result column="count" property="count" />
+		<result column="price" property="price" />
+		<result column="delete_flag" property="deleteFlag" />
+		<result column="create_time" property="createTime" />
+		<result column="create_by" property="createBy" />
+		<result column="modify_time" property="modifyTime" />
+		<result column="modify_by" property="modifyBy" />
+	</resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, user_id AS userId, pro_id AS proId, count, price, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
+    </sql>
+
+</mapper>

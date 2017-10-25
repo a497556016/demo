@@ -26,10 +26,13 @@
     <root level="info">    
         <appender-ref ref="STDOUT" />    
     </root>    
-    <logger name="com.example" level="DEBUG">    
+    <logger name="com.weishop" level="DEBUG">    
         <appender-ref ref="baselog" />    
     </logger>  
-    <logger name="org.mybatis" level="DEBUG">
+    <logger name="com.ibatis" level="DEBUG,STDOUT">
+    	<appender-ref ref="baselog" /> 
+    </logger> 
+    <logger name="org.mybatis" level="DEBUG,STDOUT">
     	<appender-ref ref="baselog" /> 
     </logger>  
 </configuration>

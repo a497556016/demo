@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.weishop.mapper.OrderListMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.weishop.pojo.OrderList">
+		<id column="id" property="id" />
+		<result column="order_id" property="orderId" />
+		<result column="pro_id" property="proId" />
+		<result column="pro_name" property="proName" />
+		<result column="pro_code" property="proCode" />
+		<result column="pro_unit" property="proUnit" />
+		<result column="pro_desc" property="proDesc" />
+		<result column="count" property="count" />
+		<result column="price" property="price" />
+		<result column="delete_flag" property="deleteFlag" />
+		<result column="create_time" property="createTime" />
+		<result column="create_by" property="createBy" />
+		<result column="modify_time" property="modifyTime" />
+		<result column="modify_by" property="modifyBy" />
+	</resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, order_id AS orderId, pro_id AS proId, pro_name AS proName, pro_code AS proCode, pro_unit AS proUnit, pro_desc AS proDesc, count, price, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
+    </sql>
+
+</mapper>
