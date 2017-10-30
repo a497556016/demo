@@ -10,11 +10,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.env.Environment;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
+import com.weishop.config.CorsConfigurerAdapter;
 import com.weishop.filter.HttpAuthFilter;
 import com.google.common.collect.Lists;
 
@@ -22,6 +24,7 @@ import com.google.common.collect.Lists;
 @EnableEurekaClient
 @EnableConfigurationProperties
 @EnableTransactionManagement
+@EnableDiscoveryClient
 public class WeiShopApplication {
 	@Value("${http-auth.url-patterns}")
 	private String urlPatternsStr;
@@ -43,9 +46,14 @@ public class WeiShopApplication {
 		return registrationBean;
 	}
 	
-	@Autowired
-	public void setEnviroment(Environment env) {
-	    System.out.println("my url-patterns from env: " 
-	        + env.getProperty("http-auth.url-patterns"));
-	}
+	/*@Bean
+	public CorsConfigurerAdapter getCorsConfigurerAdapter() {
+		return new CorsConfigurerAdapter();
+	}*/
+//	
+//	@Autowired
+//	public void setEnviroment(Environment env) {
+//	    System.out.println("my url-patterns from env: " 
+//	        + env.getProperty("http-auth.url-patterns"));
+//	}
 }

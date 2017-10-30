@@ -6,6 +6,8 @@
 	<resultMap id="BaseResultMap" type="com.weishop.pojo.User">
 		<id column="id" property="id" />
 		<result column="user_account" property="userAccount" />
+		<result column="password" property="password" />
+		<result column="salt" property="salt" />
 		<result column="user_name" property="userName" />
 		<result column="email" property="email" />
 		<result column="phone" property="phone" />
@@ -18,7 +20,7 @@
 
     <!-- 通用查询结果列 -->
     <sql id="Base_Column_List">
-        id, user_account AS userAccount, user_name AS userName, email, phone, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
+        id, user_account AS userAccount, password, salt, user_name AS userName, email, phone, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
     </sql>
 
 </mapper>

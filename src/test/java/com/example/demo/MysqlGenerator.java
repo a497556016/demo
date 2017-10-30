@@ -31,9 +31,23 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
  * @date 2016-12-01
  */
 public class MysqlGenerator {
-	private static final String[] tables = {"sys_user","bus_product","bus_shop_cart","bus_order","bus_order_list","base_ship_address"};
+	private static final String[] tables = {
+			"sys_user",
+			"bus_product",
+			"bus_shop_cart",
+			"bus_order",
+			"bus_order_list",
+			"base_ship_address",
+			"bus_product_item",
+			"base_common_file"
+	};
 	private static final String[] prifex = {"sys_", "bus_", "base_"};
-	private static final String projectPath = "E:\\\\workspace\\\\weishop-server\\\\";
+	private static final String projectPath = "E:\\\\mybatis-plus-auto-code\\\\weishop-server\\\\";
+	private static final boolean createControll = true;
+	private static final boolean createPojo = true;
+	private static final boolean createMapper = true;
+	private static final boolean createService = true;
+	private static final boolean createServiceImpl = true;
     /**
      * <p>
      * MySQL 生成演示
@@ -43,7 +57,7 @@ public class MysqlGenerator {
         // 自定义需要填充的字段
         List<TableFill> tableFillList = new ArrayList<>();
 //        tableFillList.add(new TableFill("user_name", FieldFill.INSERT_UPDATE));
-
+        PackageConfig packageConfig = createPackageConfig();
         // 代码生成器
         AutoGenerator mpg = new AutoGenerator().setGlobalConfig(
                 // 全局配置
@@ -78,8 +92,8 @@ public class MysqlGenerator {
                         })
                         .setDriverName("com.mysql.jdbc.Driver")
                         .setUsername("root")
-                        .setPassword("123456")
-                        .setUrl("jdbc:mysql://114.67.153.171:3306/weishop?characterEncoding=utf8")
+                        .setPassword("")
+                        .setUrl("jdbc:mysql://127.0.0.1:3306/weishop?characterEncoding=utf8")
         ).setStrategy(
                 // 策略配置
                 new StrategyConfig()
@@ -95,6 +109,7 @@ public class MysqlGenerator {
                         .setSuperEntityColumns(new String[]{"createTime","createBy","modifyTime","modifyBy"})
                         .setTableFillList(tableFillList)
                         .setLogicDeleteFieldName("delete_flag")
+                        .setSuperControllerClass("com.weishop.base.BaseController")
                 // 自定义 mapper 父类
                 // .setSuperMapperClass("com.baomidou.demo.TestMapper")
                 // 自定义 service 父类
@@ -105,7 +120,7 @@ public class MysqlGenerator {
                 // .setSuperControllerClass("com.baomidou.demo.TestController")
                 // 【实体】是否生成字段常量（默认 false）
                 // public static final String ID = "test_id";
-                // .setEntityColumnConstant(true)
+                 .setEntityColumnConstant(true)
                 // 【实体】是否为构建者模型（默认 false）
                 // public User setName(String name) {this.name = name; return this;}
                 // .setEntityBuilderModel(true)
@@ -113,19 +128,11 @@ public class MysqlGenerator {
                 // .setEntityLombokModel(true)
                 // Boolean类型字段是否移除is前缀处理
                 // .setEntityBooleanColumnRemoveIsPrefix(true)
-                // .setRestControllerStyle(true)
+                 .setRestControllerStyle(true)
                 // .setControllerMappingHyphenStyle(true)
         ).setPackageInfo(
                 // 包配置
-                new PackageConfig()
-                        .setModuleName("")
-                        .setParent("com.weishop")// 自定义包路径
-                        .setController("controller")// 这里是控制器包名，默认 web
-                        .setEntity("pojo")
-                        .setMapper("mapper")
-                        .setService("service")
-                        .setServiceImpl("service.impl")
-                        
+        		packageConfig        
         ).setCfg(
                 // 注入自定义配置，可以在 VM 中使用 cfg.abc 设置的值
                 new InjectionConfig() {
@@ -161,5 +168,26 @@ public class MysqlGenerator {
         // 打印注入设置，这里演示模板里面怎么获取注入内容【可无】
         System.err.println(mpg.getCfg().getMap().get("abc"));
     }
+    
+	private static PackageConfig createPackageConfig() {
+		PackageConfig packageConfig = new PackageConfig();
+        packageConfig.setModuleName("").setParent("com.weishop");// 自定义包路径
+        if(createControll) {
+        	packageConfig.setController("controller");// 这里是控制器包名，默认 web
+        }
+        if(createPojo) {
+        	packageConfig.setEntity("pojo");
+        }
+        if(createMapper) {
+        	packageConfig.setMapper("mapper");
+        }
+        if(createService) {
+        	packageConfig.setService("service");
+        }
+        if(createServiceImpl) {
+        	packageConfig.setServiceImpl("service.impl");
+        }
+		return packageConfig;
+	}
 
 }

@@ -24,10 +24,17 @@
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Dalston.SR4</spring-cloud.version>
 		<mybatisplus-spring-boot-starter.version>1.0.5</mybatisplus-spring-boot-starter.version>
-		<mybatisplus.version>0.0.1-SNAPSHOT</mybatisplus.version>
+		<mybatisplus.version>2.1.4<!-- 0.0.1-SNAPSHOT --></mybatisplus.version>
 	</properties>
 
 	<dependencies>
+		<!-- 依赖公共包 -->
+		<dependency>
+			<groupId>com.weishop</groupId>
+			<artifactId>weishop-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
@@ -49,6 +56,11 @@
 			</dependency> <dependency> <groupId>org.springframework.retry</groupId> <artifactId>spring-retry</artifactId> 
 			</dependency> -->
 		<!-- bus消息总线 -->
+		<!-- 安全验证 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
 
 		<!-- redis -->
 		<dependency>
@@ -73,6 +85,12 @@
 			<version>${mybatisplus.version}</version>
 		</dependency>
 		<!-- mybatis-plus end -->
+		
+		<dependency>
+		  <groupId>org.apache.velocity</groupId>
+		  <artifactId>velocity</artifactId>
+		  <version>1.7</version>
+		</dependency>
 
 		<!-- 分页插件，mybatis plus自带 -->
 		<!-- <dependency>

@@ -8,10 +8,9 @@
 		<result column="name" property="name" />
 		<result column="code" property="code" />
 		<result column="description" property="description" />
-		<result column="price" property="price" />
-		<result column="store_total" property="storeTotal" />
 		<result column="unit" property="unit" />
 		<result column="discount" property="discount" />
+		<result column="price" property="price" />
 		<result column="enabled" property="enabled" />
 		<result column="delete_flag" property="deleteFlag" />
 		<result column="create_time" property="createTime" />
@@ -22,7 +21,7 @@
 
     <!-- 通用查询结果列 -->
     <sql id="Base_Column_List">
-        id, name, code, description, price, store_total AS storeTotal, unit, discount, enabled, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
+        id, name, code, description, unit, discount, price, enabled, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
     </sql>
 
 </mapper>

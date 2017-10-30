@@ -5,7 +5,6 @@ import com.weishop.mapper.UserMapper;
 import com.weishop.service.IUserService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 /**
  * <p>
@@ -13,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
  * </p>
  *
  * @author HeShaowei
- * @since 2017-10-17
+ * @since 2017-10-27
  */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IUserService {
