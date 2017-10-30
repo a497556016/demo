@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.weishop.mapper.ProductItemMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.weishop.pojo.ProductItem">
+		<id column="id" property="id" />
+		<result column="p_code" property="pCode" />
+		<result column="model" property="model" />
+		<result column="size" property="size" />
+		<result column="store_total" property="storeTotal" />
+		<result column="enabled" property="enabled" />
+		<result column="delete_flag" property="deleteFlag" />
+		<result column="create_time" property="createTime" />
+		<result column="create_by" property="createBy" />
+		<result column="modify_time" property="modifyTime" />
+		<result column="modify_by" property="modifyBy" />
+	</resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, p_code AS pCode, model, size, store_total AS storeTotal, enabled, delete_flag AS deleteFlag, create_time AS createTime, create_by AS createBy, modify_time AS modifyTime, modify_by AS modifyBy
+    </sql>
+
+	<select id="selectModels" parameterType="string" resultType="string">
+		select distinct model from bus_product_item where p_code = #{code}
+	</select>
+	<select id="selectSizes" parameterType="string" resultType="string">
+		select distinct size from bus_product_item where p_code = #{code}
+	</select>
+</mapper>

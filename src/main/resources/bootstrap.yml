@@ -1,0 +1,24 @@
+#spring boot配置文件加载顺序 bootstrap --》 远程配置中心config server --》 application
+#所以有些配置必须放这里首先加载
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+  client:
+    service-url:
+      defaultZone: http://114.67.153.171:8687/eureka/
+
+spring:
+  application:
+    name: weishop-server
+  cloud:
+    config:
+      label: master
+      profile: dev
+      discovery:
+        enabled: true #必须要在Appplication启动类里面加上注解@EnableDiscoveryClient这个配置才能生效
+        service-id: config-server
+security:
+  basic:
+    enabled: false
